@@ -1,0 +1,8 @@
+.app{
+    max-width: 500px;
+    margin: 0 auto; /*centralizar na horizontal*/
+}
+.app h1{
+    text-align: center; /*alinhando ao centro*/
+    margin-bottom: 1rem;
+}
