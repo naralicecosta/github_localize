@@ -14,7 +14,7 @@
 }
 .search_container{
     display: flex;
-    gap: 0.5rem;
+    gap: .5rem;
 }
 .search_container input,
 .search_container button {
